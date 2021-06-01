@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+
+}
+.page-wrapper{
+    width: 100%;
+}
+.flex-container{
+    width: 99%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 5px solid skyblue;
+}
+.box-1{
+    width: 400px;
+    margin: 10px;
+    line-height: 182.5px;
+    font-size: 40px;
+    text-align: center;
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 20px;
+    
+}
